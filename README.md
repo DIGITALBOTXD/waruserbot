@@ -1,7 +1,7 @@
-<h1 align="center">❤️ 🅆🄰🅁🅄🅂🄴🅁🄱🄾🅃 ❤️</h1>
+<h1 align="center">❤️ 🅇🄳🅄🅂🄴🅁🄱🄾🅃 ❤️</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/4b0a3d49d8bf1e2e85fea.png">
+  <img src="(https://graph.org/file/19c7568fd413cb9e2c6a7.jpg)">
 </p>
 
   <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
@@ -41,7 +41,7 @@
 
 ## credits ❤️
 
-[Full Credit Hellbot]
+[Full Credit DIGITAL XD BOT]
 
 
 
